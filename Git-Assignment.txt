@@ -1,0 +1,17 @@
+Create a separate directory in github called Assignments
+
+Create a file in the assignments directory with all list of git commands that you have learned
+
+Use git add to add that file/directory to the repository.
+
+Use git commit to commit your change. Use a meaningful message like "Added information about git command by your name."
+
+Use git push to send your change to the repository.
+
+Look online to see if your change has been pushed.
+
+Wait until your partner has pushed their update. Then use git pull to get their change into your repository. Verify that you have the new file.
+
+Use git log or git log | less to see a list of changes to the repository.
+
+Deal with any conflicts that have arisen and commit the result.
