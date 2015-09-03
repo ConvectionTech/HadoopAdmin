@@ -1,1 +1,0 @@
-this is a new file created to see how the rm command works.
