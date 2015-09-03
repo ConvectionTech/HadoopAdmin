@@ -1,3 +1,5 @@
 this is a new file to be added.
 now the changes are to be made to see the difference.
+again some changes are made without committing the file.
+
 
