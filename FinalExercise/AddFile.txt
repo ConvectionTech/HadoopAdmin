@@ -1,1 +1,0 @@
-to add a file: git add <file name>
