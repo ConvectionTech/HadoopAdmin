@@ -1,2 +1,0 @@
-database design
-database design is the detailed data model of a database.

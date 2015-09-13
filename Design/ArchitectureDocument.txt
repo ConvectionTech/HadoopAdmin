@@ -1,2 +1,0 @@
-architecture document
-This documents provides a comprehensive architectural overview of the system.
