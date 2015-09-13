@@ -1,1 +1,4 @@
-Repo is created to keep track of projects
+
+
+This repo is created to maintain all assignments and tutorials on github, unix and hadoop.
+
