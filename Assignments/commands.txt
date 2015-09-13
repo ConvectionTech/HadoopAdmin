@@ -1,8 +1,0 @@
-git init
-git add
-git commit -m "first comment"
-git remote add origin master
-git push -u origin master
-git remote
-git remote -v
-git pull origin master
