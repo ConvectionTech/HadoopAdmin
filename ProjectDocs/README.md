@@ -1,4 +1,1 @@
-# HadoopAdmin
-This is my first learning
-hi changing file
-changed nw for two times or many more times
+Repo is created to keep track of projects
