@@ -1,0 +1,2 @@
+functional specification
+Functional specification is a formal document which describes what the developers are supposed to do to meet the end users requirements.

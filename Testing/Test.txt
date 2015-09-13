@@ -1,0 +1,5 @@
+test artifacts
+test artifacts are the documents including:
+test plan
+test case
+bug report etc.
