@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Movies> 
+	<Genre type="Action"> 
+		<Movie name="Badlapur">
+			<cast>
+				<Actors>
+					<Actor name="Varun Dhawan"/>
+					<Actor name="Nawazuddin Siddiqui"/> 
+					<Actor name="Murali Sharma"/> 
+					<Actor name="Zakir Hussain"/>  
+				</Actors>
+				<Actress>
+					<Actress name="Huma Qureshi"/>
+					<Actress name="Radhika Apte"/>
+					<Actress name="Divya Dutta"/>
+				</Actress>
+			</cast>
+		</Movie>
+		<Movie name="Singh is bling">
+			<cast>
+				<Actors>
+					<Actor name="Akshya Kumar"/>
+					<Actor name="Kay Kay Menon"/> 
+					<Actor name="Pradeep Rawat"/> 
+					<Actor name="Anil Mange"/>
+					<Actor name="Kunal Kapoor"/>
+					<Actor name="Murali Sharma"/>  
+				</Actors>
+				<Actress>
+					<Actress name="Amy Jackson"/>
+					<Actress name="Lara Dutta"/>
+					<Actress name="Sunny Leone"/>
+				</Actress>
+			</cast>
+		</Movie>
+	</Genre>
+	<Genre type="Comedy"> 
+		<Movie name="Dum laga ke haisa">
+			<cast>
+				<Actors>
+					<Actor name="Ayushmann Khurarana"/>
+					  
+				</Actors>
+				<Actress>
+					<Actress name="Bhumi Pednekar"/>
+				</Actress>
+			</cast>
+		</Movie>
+		<Movie name="Dilliwali Zaalim girlfriend">
+			<cast>
+				<Actors>
+					<Actor name="Divyendu Sharma"/>
+					<Actor name="Jackie shroff"/> 
+				</Actors>
+				<Actress>
+					<Actress name="Prachi Mishra"/>
+					<Actress name="Ira Dubey"/>
+				</Actress>
+			</cast>
+		</Movie>
+	</Genre>
+	
+</Movies>
