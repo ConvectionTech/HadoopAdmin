@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Currency_codes>
+	<RUB>
+		<Country name="Abkhazia"/>
+		<Currency name="Russian ruble"/>
+	</RUB>
+	<BYR>
+		<Country name="Belarus"/>
+		<Currency name="Belarusian ruble"/>
+	</BYR>
+	<ARS>
+		<Country name="Argentina"/>
+		<Currency name="Argentine peso"/>
+	</ARS>
+	<AUD>
+		<Country name="Australia"/>
+		<Currency name="Australian dollar"/>
+	</AUD>
+	<EUR>
+		<Country name="Austria"/>
+		<Currency name="Euro"/>
+	</EUR>
+</Currency_codes>
