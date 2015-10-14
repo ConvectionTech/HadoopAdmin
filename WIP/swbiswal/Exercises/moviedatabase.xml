@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<moviedatabase>
+    <moviegenres>
+		<moviegenre>
+			<genre>drama</genre>
+			<movies>
+				<moviename>hum aapke hain kaun</moviename>
+				<actress>madhuri</actress>
+				<actor>salman</actor>
+				<actress>rima lagu</actress>
+			</movies>
+			<movies>
+				<moviename>hum dil de chuke samnam</moviename>
+				<actor>ajay devgan</actor>
+				<actress>aishwarya</actress>
+				<actor>salman</actor>
+			</movies>     
+		</moviegenre>
+		<moviegenre>
+			<genre>comedy</genre>
+			<movies>
+				<moviename>hungama</moviename>
+				<actor>akshay khanna</actor>
+				<actor>paresh rawal</actor>
+				<actress>rimi sen</actress>
+			</movies>
+			<movies> 
+				<moviename>no entry</moviename>
+				<actor>anil kapur</actor>
+				<actor>fardin khan</actor>
+				<actress>bipasha basu</actress>
+			</movies>
+		</moviegenre>
+    </moviegenres>
+</moviedatabase>

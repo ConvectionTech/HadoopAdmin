@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<spafinder>
+<spas>
+    <spa>
+        <spaname>spa n massage</spaname>
+        <owner> lucy </owner>
+        <phone>6754356271</phone>
+        <city>farmington</city>
+        <state>michigan</state>
+        <address>27781 gateway blvd, apt-208</address>
+        <startedin>2008</startedin>
+        <typeofspa>day spa</typeofspa>
+        <services>
+			<service>
+				<servicename>face spa</servicename>
+				<servicetype>face</servicetype>
+				<description>face spa provides two services.face enhancement and facial</description>
+				<price>$250</price>
+				<offerings>
+					<offering>
+						<offeringname>facial</offeringname>
+						<days>monday,friday</days>
+						<times>12pm, 3pm</times>
+						<practitioner>lara</practitioner>
+						<floor>2nd floor</floor>
+						<room>2</room>
+					</offering>
+				
+					<offering>
+						<offeringname>face enhancement</offeringname>
+						<days>tuesday,friday</days>
+						<times>11am, 4pm</times>
+						<practitioner>mika</practitioner>
+						<floor>2nd floor</floor>
+						<room>2</room>
+					</offering>
+				</offerings>
+			</service>
+			<service>
+				<servicename>hair spa</servicename>
+				<servicetype>hair</servicetype>
+				<description>hair spa provides two services.hair coloring and scalp treatment</description>
+				<price>$280</price>
+				<offerings>
+					<offering>
+						<offeringname>color</offeringname>
+						<days>monday,thursday</days>
+						<times>10am, 2pm</times>
+						<practitioner>tia</practitioner>
+						<floor>3rd floor</floor>
+						<room>1</room>
+					</offering>
+					<offering>
+						<offeringname>scalp treatment</offeringname>
+						<days>wednesday,thursday</days>
+						<times>10am, 12pm</times>
+						<practitioner>tina</practitioner>
+						<floor>3rd floor</floor>
+						<room>1</room>
+					</offering>
+				</offerings>
+			</service>
+			<service>
+				<servicename>body spa</servicename>
+				<servicetype>body</servicetype>
+				<description>body spa provides two services.body scrubs and body wraps</description>
+				<price>$450</price>
+				<offerings>
+					<offering>
+						<offeringname>body scrubs</offeringname>
+						<days>wednesday,friday</days>
+						<times>11am, 3pm</times>
+						<practitioner>lipi</practitioner>
+						<floor>1st floor</floor>
+						<room>3</room>
+					</offering>
+					<offering>
+						<offeringname>body wraps</offeringname>
+						<days>thursday,sunday</days>
+						<times>2pm, 4pm</times>
+						<practitioner>lira</practitioner>
+						<floor>1st floor</floor>
+						<room>3</room>
+					</offering>
+				</offerings>
+			</service>
+		</services>
+    </spa>    
+    <spa>
+        <spaname> pamper me spa</spaname>
+        <owner> nancy </owner>
+        <phone>6245356271</phone>
+        <city>chicago</city>
+        <state>illinois</state>
+        <address>487 brooklyn road, building no- 107</address>
+        <startedin>2001</startedin>
+        <typeofspa>hot tub</typeofspa>
+        <services>
+			<service>
+				<servicesname>nail spa</servicesname>
+				<service>nail</service>
+				<description>nail spa provides two services.manicures and pedicures</description>
+				<price>$150</price>
+				<offerings>
+					<offering>
+						<offeringsname>manicures</offeringsname>
+						<days>thursday,sunday</days>
+						<times>2pm, 4pm</times>
+						<practitioner>lira</practitioner>
+						<floor>1st floor</floor>
+						<room>3</room>
+					</offering>
+					<offering>
+						<offeringsname>pedicures</offeringsname>
+						<days>saturday,sunday</days>
+						<times>1pm, 4pm</times>
+						<practitioner>micky</practitioner>
+						<floor>1st floor</floor>
+						<room>6</room>
+					</offering>
+				</offerings>
+			</service>
+			<service>
+				<servicesname>hair spa</servicesname>
+				<service>hair</service>
+				<description>hair spa provides two services. hairstyle and hair color</description>
+				<price>$200</price>
+				<offerings>
+					<offering>
+						<offeringsname>style</offeringsname>
+						<days>thursday,sunday</days>
+						<times>2pm, 4pm</times>
+						<practitioner>lira</practitioner>
+						<floor>1st floor</floor>
+						<room>3</room>
+					</offering>
+					<offering>
+						<offeringsname>color</offeringsname>
+						<days>friday,sunday</days>
+						<times>2pm, 5pm</times>
+						<practitioner>sakshi</practitioner>
+						<floor>4th floor</floor>
+						<room>4</room>
+					</offering>
+				</offerings>
+			</service>
+			<service>
+				<servicesname>massage spa</servicesname>
+				<service>massage</service>
+				<description>massage spa provides two services. massages and massage enhancement</description>
+				<price>$200</price>
+				<offerings>
+					<offering>
+						<offeringsname>massages</offeringsname>
+						<days>monday,sunday</days>
+						<times>12pm, 4pm</times>
+						<practitioner>rosy</practitioner>
+						<floor>1st floor</floor>
+						<room>12</room>
+					</offering>
+					<offering>
+						<offeringsname>massage enhancements</offeringsname>
+						<days>tuesday,wednesday</days>
+						<times>11am, 3pm</times>
+						<practitioner>susan</practitioner>
+						<floor>5th floor</floor>
+						<room>11</room>
+					</offering>
+				</offerings>
+			</service>
+        </services>
+    </spa>    
+    <spa>	
+        <spaname> body n mind spa</spaname>
+        <owner> emily </owner>
+        <phone>2784934231</phone>
+        <city>padonia</city>
+        <state>maryland</state>
+        <address>2789 padonia rd, suite 205</address>
+        <startedin>2010</startedin>
+        <typeofspa>day spa</typeofspa>
+        <services>
+			<service>
+				<servicename>makeup spa</servicename>
+				<service>makeup</service>
+				<description>makeup spa provides two services.makeup and eyebrows</description>
+				<price>$200</price>
+				<offerings>
+					<offering>
+						<offeringsname>makeup</offeringsname>
+						<days>sunday,wednesday</days>
+						<times>11am, 2pm</times>
+						<practitioner>suzy</practitioner>
+						<floor>8th floor</floor>
+						<room>8</room>
+					</offering>
+					<offering>
+						<offeringsname>eyebrows</offeringsname>
+						<days>tuesday,friday</days>
+						<times>1pm, 3pm</times>
+						<practitioner>ria</practitioner>
+						<floor>10th floor</floor>
+						<room>3</room>
+					</offering>
+				</offerings>
+			</service>
+			<service>
+				<servicename>nail spa</servicename>
+				<service>nail</service>
+				<description>nail spa provides two services. nail enhancement and manicures</description>
+				<price>$200</price>
+				<offerings>
+					<offering>
+						<offeringsname>nail enhancement</offeringsname>
+						<days>wednesday, friady</days>
+						<times>12pm, 3pm</times>
+						<practitioner>kia</practitioner>
+						<floor>10th floor</floor>
+						<room>11</room>
+					</offering>
+					<offering>
+						<offeringsname>manicures</offeringsname>
+						<days>tuesday,thursday</days>
+						<times>11am,4pm</times>
+						<practitioner>susan</practitioner>
+						<floor>10th floor</floor>
+						<room>10</room>
+					</offering>
+				</offerings>
+			</service>
+			<service>
+				<servicename>body spa</servicename>
+				<service>body</service>
+				<description>body spa provides two services. body treatments and body scrubs</description>
+				<price>$200</price>
+				<offerings>
+					<offering>
+						<offeringsname>body treatments</offeringsname>
+						<days>tuesday,saturday</days>
+						<times>2pm, 3pm</times>
+						<practitioner>jia</practitioner>
+						<floor>11th floor</floor>
+						<room>12</room>
+					</offering>
+					<offering>
+						<offeringsname>body scrubs</offeringsname>
+						<days>monday,wednesday</days>
+						<times>11am, 5pm</times>
+						<practitioner>christina</practitioner>
+						<floor>11th floor</floor>
+						<room>11</room>
+					</offering>
+				</offerings>
+			</service>
+        </services>
+    </spa>
+</spas>
+</spafinder>
