@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spafinder>
+    <spa_1>
+	    <spanm name="BLISS SPA"/>
+        <owner name="Mark Toick"/>
+        <phone number='9987045457'/>
+        <city name="Cockeysville"/>
+        <state name="MD"/>
+        <address ad="123 lane 4  dulaney valley"/>
+        <startedin year="1986"/>
+        <spatype type="face"/>
+        <Services>
+            <service>
+			<Service_nm name="ALPHA MINI FACIAL"/>
+                <service_description desc="Natural, acidic exfoliators will deeply penetrate the surface to encourage optimal collagen production, the softening of
+
+				
+				lines and a rise in moisture levels"/>
+				
+                <price cost="125"/>
+                <serviceschedules>
+                    <schedue1>
+                        <Days_offered days="Mon"/>
+                        <At_time time="9 am to 5 pm"/>
+                        <Practioner name="Shella Joan"/>
+                        <Room number="304"/>
+                        <Floor no="3rd"/>
+                    </schedue1>
+                    <schedue2>
+                        <Days_offered days="Fri"/>
+                        <At_time time="10 am to 3 pm"/>
+                        <Practioner name="Nikol Jackson"/>
+                        <Room number="103"/>
+                        <Floor no="1st"/>
+                    </schedue2>
+                </serviceschedules>
+            </service>            
+        </Services>
+    </spa_1>    
+</spafinder>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<telephonedirectory>
+    <department name ="finance" phoneno="2546789098" faxno="3578765432" emailid="abcfinance@business.com">
+        <employees>
+			<employee>
+				<firstname>swarnali</firstname>
+				<lastname>biswal</lastname>
+				<telephoneno>3452677872</telephoneno>
+				<emailid>sbdeia@gmail.com</emailid>
+			</employee>
+			<employee>
+				<firstname>archana</firstname>
+				<lastname>singh</lastname>
+				<telephoneno>1234577872</telephoneno>
+				<emailid>avjul@yahoo.com</emailid>
+			</employee>
+			<employee>
+				<firstname>mano</firstname>
+				<lastname>biswal</lastname>
+				<telephoneno>1234576754</telephoneno>
+				<emailid>manoj@yahoo.com</emailid>
+			</employee>
+        </employees>
+    </department>
+    <department name="HR" phoneno= "6834679172" faxno="7895624561" emailid="abchumanresource@business.com">
+		<employees>
+			<employee>
+				<firstname>anjali</firstname>
+				<lastname>ray</lastname>
+				<telephoneno>3689877872</telephoneno>
+				<emailid>sbiywea@gmail.com</emailid>
+			</employee>
+			<employee>
+				<firstname>ritesh</firstname>
+				<lastname>singhal</lastname>
+				<telephoneno>2796542678</telephoneno>
+				<emailid>riteshsngl@gmail.com</emailid>
+			</employee>
+			<employee>
+				<firstname>pritam</firstname>
+				<lastname>goswami</lastname>
+				<telephoneno>4564339870</telephoneno>
+				<emailid>pritamg@yahoo.com</emailid>
+			</employee>
+        </employees>
+    </department>
+</telephonedirectory>

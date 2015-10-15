@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Telephone_Directory>
+	<Departments>
+		<Production_dept>
+			<Contact_ph number='8765888834'/>
+			<fax number='45454545'/>
+			<email address="production@trv.com"/>
+			<Employees>
+				<Employee>
+					<emp_fn>"Joe"</emp_fn>
+					<emp_ln>"Biden"</emp_ln>
+					<emp_phone>'1234588899'</emp_phone>
+					<emp_email>"BidenJ@trv.com"</emp_email>		
+				</Employee>
+				<Employee>
+					<emp_fn>"Fanny"</emp_fn>
+					<emp_ln>"Mirel"</emp_ln>
+					<emp_phone>'1234567345'</emp_phone>
+					<emp_email>"MirelF@trv.com"</emp_email>		
+				</Employee>
+				<Employee>
+					<emp_fn>"Dasika"</emp_fn>
+					<emp_ln>"Mohapatra"</emp_ln>
+					<emp_phone>'1265656566'</emp_phone>
+					<emp_email>"MohapatraD@trv.com"</emp_email>		
+				</Employee>
+
+			</Employees>
+		</Production_dept>
+		<Maintenance_dept>
+			<Contact_ph number='5676909044'/>
+			<fax number='234569'/>
+			<email address="maintenance@trv.com"/>
+			<Employees>
+				<Employee>
+					<emp_fn>"Michael"</emp_fn>
+					<emp_ln>"Clark"</emp_ln>
+					<emp_phone>'1237878788'</emp_phone>
+					<emp_email>"ClarkM@trv.com"</emp_email>		
+				</Employee>
+				<Employee>
+					<emp_fn>"Jyoti"</emp_fn>
+					<emp_ln>"Mishra"</emp_ln>
+					<emp_phone>'1676767644'</emp_phone>
+					<emp_email>"MishraJ@trv.com"</emp_email>		
+				</Employee>
+				<Employee>
+					<emp_fn>"Sneha"</emp_fn>
+					<emp_ln>"Aggarwal"</emp_ln>
+					<emp_phone>'1265878787'</emp_phone>
+					<emp_email>"AggarwalS@trv.com"</emp_email>		
+				</Employee>
+
+			</Employees>
+		</Maintenance_dept>
+	</Departments>
+</Telephone_Directory>
