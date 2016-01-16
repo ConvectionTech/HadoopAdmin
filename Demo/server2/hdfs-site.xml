@@ -19,18 +19,18 @@
 <configuration>
 <property>
         <name>dfs.datanode.data.dir</name>
-        <value>/home/desingh/demo/server2/datanode</value>
+        <value>C:\\cygwin\\home\\Utkal\\myapp\\server4\\datanode</value>
     </property>
     <property>
         <name>dfs.datanode.address</name>
-        <value>ec2-52-33-41-175.us-west-2.compute.amazonaws.com:50110</value>
+        <value>desingh@ec2-52-33-41-175.us-west-2.compute.amazonaws.com:50110</value>
     </property>
     <property>
         <name>dfs.datanode.ipc.address</name>
-        <value>ec2-52-33-41-175.us-west-2.compute.amazonaws.com:50120</value>
+        <value>desingh@ec2-52-33-41-175.us-west-2.compute.amazonaws.com:50120</value>
     </property>
     <property>
         <name>dfs.datanode.http.address</name>
-        <value>ec2-52-33-41-175.us-west-2.compute.amazonaws.com:50175</value>
+        <value>desingh@ec2-52-33-41-175.us-west-2.compute.amazonaws.com:50175</value>
     </property>
 </configuration>
